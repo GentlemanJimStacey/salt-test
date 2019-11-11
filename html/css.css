@@ -1,3 +1,8 @@
-body {
-    background-color: rgb(152, 178, 250)
+.test {
+    background-color: rgb(152, 178, 250);
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
